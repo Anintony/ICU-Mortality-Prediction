@@ -13,8 +13,8 @@ The final **XGBoost model** achieved a **93% accuracy** and **0.88 AUC** on the 
 
 For easy viewing, the rendered HTML reports for each step are available in the `/html/` folders.
 
-* **[Phase 1: Data Cleaning (HTML)](https:/github.com/github.com/Anintony/ICU-Mortality-Prediction/blob/main/html_reports/02_data_cleaning.html))**
-* **[Phase 2: Exploratory Data Analysis (HTML)]((https://github.com/Anintony/ICU-Mortality-Prediction/blob/main/html_reports/03_EDA.html))**
+* **[Phase 1: Data Cleaning (HTML)](https:/github.com/github.com/Anintony/ICU-Mortality-Prediction/blob/main/html_reports/02_data_cleaning.html)**
+* **[Phase 2: Exploratory Data Analysis (HTML)](https://github.com/Anintony/ICU-Mortality-Prediction/blob/main/html_reports/03_EDA.html)**
 * **[Phase 3: Feature Selection and Engineering (HTML)](https://github.com/Anintony/ICU-Mortality-Prediction/blob/main/html_reports/04_Feature_Selection_and_Engineering.html)**
 * **[Phase 4: Modeling and Experiments (HTML)](https://github.com/Anintony/ICU-Mortality-Prediction/blob/main/html_reports/05_Modeling_and_Experiments.html)**
 
